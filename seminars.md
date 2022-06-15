@@ -30,4 +30,4 @@ Yes! We will add attendance information soon.
 
 ### Webinar Date
 
-This webinar series will begin on Mondays at 12:00 p.m. ET beginning on August 2. The series ends on December 13.
+This webinar series will begin in the fall.

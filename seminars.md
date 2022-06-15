@@ -17,7 +17,7 @@ BME UNITE is leading a seminar series designed to showcase current and future fa
 
 Selection will be prioritized for those with status in a group that is underrepresented in biomedical engineering faculty. Dates are prioritized based on timing for the job market.
 
-Submission Form
+[Submission Form](https://forms.gle/sreDenkBTgLL154g9)
 
 ### Audience
 
@@ -26,10 +26,8 @@ Submission Form
 
 ### Can I attend?
 
-XXX
+Yes! We will add attendance information soon.
 
 ### Webinar Date
 
 This webinar series will begin on Mondays at 12:00 p.m. ET beginning on August 2. The series ends on December 13.
-
-UNITE Featured Speakers

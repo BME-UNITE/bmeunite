@@ -17,7 +17,7 @@ BME UNITE is leading a seminar series designed to showcase current and future fa
 
 Selection will be prioritized for those with status in a group that is underrepresented in biomedical engineering faculty. Dates are prioritized based on timing for the job market.
 
-[Submission Form](https://forms.gle/sreDenkBTgLL154g9)
+<a href="https://forms.gle/sreDenkBTgLL154g9" class="button">Submission Form</a>
 
 ### Audience
 

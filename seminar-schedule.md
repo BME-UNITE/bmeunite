@@ -29,6 +29,7 @@ The metabolic underpinnings of immune cells in the implant microenvironment are 
 
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2022-08-15-Cyphert.webp" alt="Dr. Cyphert's photo" width="150px" id="photo-float"/>
 

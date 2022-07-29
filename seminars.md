@@ -7,6 +7,8 @@ title: UNITE Seminar Series
 
 BME UNITE is leading a seminar series designed to showcase current and future faculty candidates from diverse and underrepresented backgrounds in BME. Speakers will give 20-minute talks where they can showcase themselves and their work to BME department heads and current search committee members. Talks will be followed by an hour-long mentoring session between the speakers and BME department heads.
 
+<a href="seminar-schedule.html" class="button">Webinar Schedule</a>
+
 ### Why should I sign up?
 
 1. Increased visibility to future employers
@@ -27,7 +29,3 @@ Selection will be prioritized for those with status in a group that is underrepr
 ### Can I attend?
 
 Yes! We will add attendance information soon.
-
-### Webinar Date
-
-This webinar series will begin in the fall.

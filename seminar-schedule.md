@@ -38,6 +38,12 @@ The metabolic underpinnings of immune cells in the implant microenvironment are 
 <details><summary>Abstract</summary>
 I am an expert in biomaterials for drug delivery who has centered my research around opportunistic pathogens and commensal microbes. My graduate training focused on the development of an antibiotic delivery system for poly(methyl methacrylate) (PMMA) bone cement that improved upon several limitations of PMMA antibiotic bone cement. Specifically, it allowed for delivery of antibiotics previously not compatible with bone cement, was capable of more effectively treating long-term broad-spectrum infections, and could be refilled with additional drugs after implantation. As a postdoctoral researcher, I study how controlled manipulations to the composition of the gut microbiome influence bone tissue strength through clinical and pre-clinical studies. Through my work, I have found that the composition of the gut microbiome significantly differed in clinical orthopaedic surgery patients based on their pre-surgical bone mineral density. Additionally, my work has shown that gut microbiome-induced changes in bone matrix are not limited to the bone tissue that is formed while the microbiota is altered, suggesting that it may be possible to improve bone matrix later in life through microbiome-based interventions. As an independent investigator, my goal is to use my expertise in drug delivery platforms to develop systems that deliver molecules that mimic the function of beneficial gut microbes. The microbiome is a complex consortium of microbes that has been shown to be implicated in several disorders. Therefore, materials that mimic the function of therapeutic microbes have the potential to impact several distal organs. My long-term vision is to pioneer the next-generation of microbiome-based therapeutics that mimic the function of beneficial microbes, overcoming the challenges of delivering live microbes.</details>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### August 29, 2022
 
 #### Dishary Banerjee

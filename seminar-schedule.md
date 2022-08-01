@@ -4,7 +4,7 @@ title: UNITE Seminar Series Schedule
 exclude: true
 ---
 
-### August 15, 2022
+### August 15, 2022 (12 pm ET, 9 am PT)
 
 
 <img src="/public/seminar-photos/2022-08-15-Aquino.webp" alt="Dr. d’Aquino's photo" width="150px" id="photo-float"/>
@@ -44,18 +44,18 @@ I am an expert in biomaterials for drug delivery who has centered my research ar
 <br />
 <br />
 
-### August 29, 2022
+### August 29, 2022 (12 pm ET, 9 am PT)
 
 #### Dishary Banerjee
 #### Matthew Ishahak
 
-### September 12, 2022
+### September 12, 2022 (12 pm ET, 9 am PT)
 
 #### Arvin Soepriatna
 #### Michael Friedman
 #### Sara Molinari
 
-### September 26, 2022
+### September 26, 2022 (12 pm ET, 9 am PT)
 
 #### Alyssa Olivas
 #### Marian Ackun-Farmmer

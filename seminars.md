@@ -28,4 +28,4 @@ Selection will be prioritized for those with status in a group that is underrepr
 
 ### Can I attend?
 
-Yes! Please fill out [this form](https://forms.gle/eWaTfMRG2kXzVjrq8) and you will receive the webinar information from the organizers.
+Yes! You can find the webinar links on the [seminar schedule](/seminar-schedule/).

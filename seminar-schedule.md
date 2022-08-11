@@ -4,7 +4,7 @@ title: UNITE Seminar Series Schedule
 exclude: true
 ---
 
-### August 15, 2022 (12 pm ET, 9 am PT)
+### August 15, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/94243763993?pwd=c0creTNRMXhtbk9kU0pTeEJqekFCZz09))
 
 
 <img src="/public/seminar-photos/2022-08-15-Aquino.webp" alt="Dr. d’Aquino's photo" width="150px" id="photo-float"/>
@@ -44,18 +44,18 @@ I am an expert in biomaterials for drug delivery who has centered my research ar
 <br />
 <br />
 
-### August 29, 2022 (12 pm ET, 9 am PT)
+### August 29, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/97975610208?pwd=NjRVbDA1M1U4QTBzZjRHUFM2Ukp3Zz09))
 
 #### Dishary Banerjee
 #### Matthew Ishahak
 
-### September 12, 2022 (12 pm ET, 9 am PT)
+### September 12, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/97080970050?pwd=QzhiOXF1V3NoVE5KUVJCQlI1aTJJUT09))
 
 #### Arvin Soepriatna
 #### Michael Friedman
 #### Sara Molinari
 
-### September 26, 2022 (12 pm ET, 9 am PT)
+### September 26, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/95281036398?pwd=dDhMV1JrOGxnejR0Q3dNeTA5MUNGUT09))
 
 #### Alyssa Olivas
 #### Marian Ackun-Farmmer

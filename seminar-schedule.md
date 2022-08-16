@@ -46,7 +46,7 @@ I am an expert in biomaterials for drug delivery who has centered my research ar
 
 ### August 29, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/97975610208?pwd=NjRVbDA1M1U4QTBzZjRHUFM2Ukp3Zz09))
 
-<img src="/public/seminar-photos/2022-08-15-Banerjee.webp" alt="Dr. Banerjee's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2022-08-29-Banerjee.webp" alt="Dr. Banerjee's photo" width="150px" id="photo-float"/>
 
 #### Dishary Banerjee, The Pennsylvania State University
 
@@ -67,7 +67,7 @@ and risk of rejection.
 <br />
 <br />
 
-<img src="/public/seminar-photos/2022-08-15-Ishahak.webp" alt="Dr. Ishahak's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2022-08-29-Ishahak.webp" alt="Dr. Ishahak's photo" width="150px" id="photo-float"/>
 
 #### Matthew Ishahak, Washington University School of Medicine in St. Louis
 
@@ -81,7 +81,7 @@ Recent advancements in organoid technology and organs-on-chips, also known as mi
 <br />
 <br />
 
-<img src="/public/seminar-photos/2022-08-15-Saini.webp" alt="Dr. Saini's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2022-08-29-Saini.webp" alt="Dr. Saini's photo" width="150px" id="photo-float"/>
 
 #### Karanvir Saini, University of Pennsylvania
 

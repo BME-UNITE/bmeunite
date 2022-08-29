@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
+title: REU Programs in BME
 ---
 
-<ul>
-    {% for program in site.data.programs %}
-      <li>{{ program.program }}</li>
-    {% endfor %}
-</ul>
+{% for program in site.data.programs %}
+  <h2>{{ program.program }}</h2>
+
+  Contact: <a href="mailto:{{ program.contact.email }}">{{ program.contact.name }}</a>
+
+  Typical Deadline: {{ program.deadline }}
+{% endfor %}

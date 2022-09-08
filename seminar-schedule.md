@@ -97,9 +97,29 @@ Aberrant structure and altered composition of extracellular matrix (ECM), a hall
 
 ### September 12, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/97080970050?pwd=QzhiOXF1V3NoVE5KUVJCQlI1aTJJUT09))
 
+<img src="/public/seminar-photos/2022-09-12-Soepriatna.webp" alt="Dr. Soepriatna's photo" width="150px" id="photo-float"/>
+
 #### Arvin Soepriatna
-#### Michael Friedman
+
+Beating as One: Mitigating Arrhythmias and Improving Electrical Coupling in Engineered Heart Tissues
+
+<details><summary>Abstract</summary>
+Heart attack survivors live with permanent damage in their hearts and are at higher risk of developing heart failure. Current treatments do not directly repair or restore function in the damaged myocardium, motivating innovative tissue engineering solutions to remuscularize the heart. Implanting engineered heart tissues (EHTs) composed of human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) to restore contractility is a promising therapy. However, this approach is challenged by poor electrical integration between the epicardially implanted EHT and the host heart, as well as increased concerns for arrhythmogenesis. In this talk, we highlight our recent efforts in mitigating arrhythmias in large-scale EHTs and improving electrical coupling between EHTs to ensure safe clinical translation and delivery of this therapeutic implant. Briefly, we differentiated high-purity hiPSC-CMs (>85% cTnT+) to 1) construct self-compacting, large-scale EHTs (> 1x1 cm) in a collagen-1 mixture and 2) generate bioelectric sutures by seeding hiPSC-CMs onto fibrin threads. Optical mapping was performed to characterize the electrical properties of these engineered tissue constructs. We discovered that tissue geometries influence the arrhythmogenic state of EHTs by altering action potential duration heterogeneity and conduction, which we can leverage to reduce tissue susceptibility to developing arrhythmias. We also demonstrate that our bioelectric sutures were electromechanically active and enabled directed electrical propagation between two separate EHTs. Ongoing work focus on translating these findings in vivo in a rat model of myocardial infarction. Collectively, these preliminary results highlight a potential strategy for establishing electrical coupling between implanted EHTs and the host myocardium without inducing arrhythmias.
+</details>
+
+<br />
+<br />
+<br />
+
+<img src="/public/seminar-photos/2022-09-12-Molinari.webp" alt="Dr. Molinari's photo" width="150px" id="photo-float"/>
+
 #### Sara Molinari
+
+A de novo matrix for macroscopic living materials from bacteria
+
+<details><summary>Abstract</summary>
+In medicine, there exists a ceaseless demand for new materials to support medical progress, specially designed to address complex diseases through multiple functions. Multifunctionality is a hallmark of living cells, and natural living materials such as bones and skins possess remarkable features that enable superior performance in complex environments; for example, the ability to dynamically respond to external stimuli, self-assemble, and self-repair in case of damage1. Moreover, the self-produced biopolymer matrix that embeds cells confers mechanical characteristics unmatched by any artificial material1. The ability to de novo engineer living materials would thus allow treating diseases with a unique combination of tailored mechanical properties and non-native biochemical functions. However, engineering cells to self-assemble into macroscopic materials with tailored mechanical and biochemical properties is beyond the current state of the art. In particular, we have lacked the tools and design rules to genetically encode a synthetic matrix that programs collective cell self-organization into macroscopic structures and allows us to tune the mechanical properties of the material. I created a macroscopic engineered living material (ELM) by genetically engineering Caulobacter crescentus to simultaneously display and secrete a synthetic matrix. This approach was successful in assembling cells into hierarchically-ordered centimeter-scale structures. Moreover, I showed that, through genetic modifications of the matrix, I was also able to control the stiffness of ELMs over a 16-fold range. This study provides design rules for the de novo engineering of ELMs. My future research will be aimed to refactor this system into lactic acid bacteria to create probiotic-based ELMs able to adhere to the gastrointestinal epithelium and deliver therapeutics. I envision that compared to standard engineered probiotics this approach will allow (i) to improve cell viability in the gut due to the presence of a surface-bound matrix, (ii) allow a local high-density of probiotic cells, and (iii) a better delivery of the probiotics to the specific site of active disease. 
+</details>
 
 ### September 26, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/95281036398?pwd=dDhMV1JrOGxnejR0Q3dNeTA5MUNGUT09))
 

@@ -138,6 +138,7 @@ Autism is a socio-behavioral disorder, and diagnoses are conducted through behav
 <br />
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2022-09-26-Farmmer.webp" alt="Dr. Ackun-Farmmer's photo" width="150px" id="photo-float"/>
 
@@ -157,6 +158,8 @@ Self-assembly allows for the design of complex and tunable biomaterials for drug
 
 #### Isabel Vanegas
 
+<br />
+<br />
 <br />
 <br />
 <br />

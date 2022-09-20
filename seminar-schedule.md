@@ -163,6 +163,8 @@ Self-assembly allows for the design of complex and tunable biomaterials for drug
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <img src="/public/seminar-photos/2022-09-26-Friedman.webp" alt="Dr. Friedman's photo" width="150px" id="photo-float"/>
 

@@ -127,6 +127,46 @@ In medicine, there exists a ceaseless demand for new materials to support medica
 
 ### September 26, 2022 (12 pm ET, 9 am PT; [webinar link](https://utexas.zoom.us/j/95281036398?pwd=dDhMV1JrOGxnejR0Q3dNeTA5MUNGUT09))
 
+<img src="/public/seminar-photos/2022-09-26-Olivas.webp" alt="Dr. Olivas's photo" width="150px" id="photo-float"/>
+
 #### Alyssa Olivas
+
+<details><summary>Abstract</summary>
+Autism is a socio-behavioral disorder, and diagnoses are conducted through behavioral screening instruments. Recent research suggests motor deficits may be a core symptom of the disorder, as children with autism present with deficits in motor development, locomotor skills, and postural instability. In addition, children with autism often have affected, executive function, attention, and perception cognitive domains. Different gait speeds have been used to examine gait adaptations in other clinical populations. Additionally, individuals with decreased cognitive abilities have demonstrated difficulties in modulating their walking speed. There is limited research on mechanisms children with autism use to alter their gait speed, or if cognitive abilities play a role in this task. Therefore, this multi-aim project sought to examine the mobility and cognitive mechanisms involved in altering gait speed in children with autism. Children with autism demonstrated different lower extremity angular joint positions in different speeds in the pre-swing sub-phase of gait, leading to increased hip extension, increased knee flexion, and decreased dorsiflexion at increased speeds. Large effect sizes observed in the ankle angular joint positions, suggest a primary kinematic strategy that involves the ankle when changing speed. Children with autism demonstrated no differences in dynamic stability when comparing different speeds, indicating dynamic stability is unaffected when altering gait speed. Children with autism presented with reduced cognitive abilities and slower cognitive processing. However, they did not differ from neurotypical children in their gait velocity or kinematics, indicating they mechanically alter their gait velocity, similarly to their neurotypical peers. Children with autism did not demonstrate correlations between cognitive processes and gait variables, which may indicate that children with autism are not using cognitive processes while changing their walking speed. The findings from this study may prove beneficial, as altering gait speed is a typical task children with autism use in their daily lives. 
+</details>
+
+<br />
+<br />
+<br />
+
+<img src="/public/seminar-photos/2022-09-26-Farmmer.webp" alt="Dr. Ackun-Farmmer's photo" width="150px" id="photo-float"/>
+
 #### Marian Ackun-Farmmer
+
+Directing the self-assembly of materials to treat cancer and autoimmunity
+
+<details><summary>Abstract</summary>
+Self-assembly allows for the design of complex and tunable biomaterials for drug delivery. During my PhD training, I developed bone-targeted polymeric nanoparticle (NPs) assembled through hydrophobic interactions between amphiphilic diblock copolymers to treat acute myeloid leukemia. Tartrate-resistant acid phosphatase (TRAP) binding NPs (TBP-NPs) were designed to target osteoclast deposited TRAP protein found in bone. Using a solvent-displacement method of drug loading, leukemia-relevant small molecule drugs were incorporated into the hydrophobic core of TBP-NPs and used to treat a preclinical leukemia mouse model. TBP-NPs reduced leukemic burden and improved survival while free drug treatments failed to exhibit comparable efficacy. In my postdoc, I am designing immune polyelectrolyte multilayers (iPEMs) built through electrostatic interactions to treat preclinical multiple sclerosis (MS) models through the co-delivery of myelin self-antigen and an immunomodulatory oligonucleotide. Thus far, we have shown that iPEMs downregulate inflammatory genes, increase regulatory T cell polarization, and improve disease outcome. Altogether, these studies highlight the versatility of self-assembled biomaterials to serve as tissue/cell-specific drug delivery systems and motivate further development of these systems to treat other types of diseases.
+</details>
+
+<br />
+<br />
+<br />
+
+<img src="/public/seminar-photos/2022-09-26-Vanegas.webp" alt="Dr. Vanegas's photo" width="150px" id="photo-float"/>
+
 #### Isabel Vanegas
+
+<br />
+<br />
+<br />
+
+<img src="/public/seminar-photos/2022-09-26-Friedman.webp" alt="Dr. Friedman's photo" width="150px" id="photo-float"/>
+
+#### Michael Friedman
+
+Genetic Variability Influences the Musculoskeletal Response to Disuse
+
+<details><summary>Abstract</summary>
+Mechanical unloading from disuse and spaceflight causes extensive bone and muscle loss. These effects increase the risk of musculoskeletal injuries. Genetic variability causes some people to inherently have greater bone and/or muscle mass, but we don’t know if genetic variability causes some people to be more protected from the catabolic effects of unloading. The Jackson Lab has recently developed a Diversity Outbred (DO) mouse by cross-breeding eight inbred founder strains for over thirty generations. DO mice have high genetic diversity and can be an excellent model for studying the role of genetic variability on health and disease. We took twenty sixteen-week old DO mice (ten female, ten male) and immobilized the right hindlimb for three weeks. Baseline and final day micro-CT scans were analyzed. We found there was significantly greater femur cortical bone area in the right leg at baseline, compared to the left leg. Genetic differences accounted for 93% of the variance in bone area. Three weeks of immobilization of the right leg caused significant decreases in cortical area and significant loss of muscle strength. Genetic differences accounted for 40% of the variance in response to unloading. These results suggest genetic variability can cause some people to be protected from the negative effects of unloading. Future work in my lab will investigate which genes are responsible as well as using DO mice to study the role of genetic variability in adaptation to exercise and nutritional interventions for musculoskeletal health.
+</details>

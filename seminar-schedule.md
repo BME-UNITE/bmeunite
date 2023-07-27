@@ -64,6 +64,9 @@ Many variables contribute to the perpetuation of health disparities: environment
 
 My talk will focus on one example of this work from my postdoctoral work at University of Texas at Austin. My project develops a pH sensitive nanotechnology platform for the oral delivery of small interfering RNA (siRNA) as a replacement for infusion therapy for treatment of inflammatory bowel disease. Challenges associated with the oral delivery of siRNA include the harsh pH of the stomach, enzymatic degradation, uptake of siRNA into macrophages in the intestines, and the need to undergo endosomal escape following intracellular delivery. To achieve this, a multi-layered system is proposed and will be developed with an anionic coating that protects its payload through the stomach and expands to release siRNA-loaded cationic nanogels under neutral pH conditions in the intestines. This dual layered platform can be applied to other autoimmune diseases in the future. Additionally, the role of sex is being explored in vitro on gene transfection and cytotoxicity.</details>
 
+<br />
+<br />
+
 <img src="/public/seminar-photos/2023-08-28-Liu.webp" alt="Dr. Liu's photo" width="150px" id="photo-float"/>
 
 #### Gary Liu, Massachusetts Institute of Technology
@@ -77,7 +80,13 @@ Chronic disease patients face long-term drug courses that can result in persiste
 
 In the second part of my talk, I will highlight my postdoctoral work at the macroscale. Orally administered enzymes and bacteria can modulate disease through activity in the stomach and intestines, but are quickly inactivated in the harsh gastrointestinal environment. Strategies to stabilize these therapeutics use solid, excipient-containing formulations, which are inaccessible for pediatric and geriatric patients who have difficulty swallowing solids. To address this challenge, we developed LIFT (liquid in situ-forming and tough) hydrogels, which transition from a drinkable liquid to a tough, solid drug depot within the stomach. Comprising biocompatible poly(ethylene glycol) and alginate double polymer networks, LIFT rapidly forms a tough hydrogel in vivo in porcine stomachs, and can sustain multiple compressions compared to single-network hydrogels, which permanently deform after one compression. These materials were further examined for their multifunctionality. LIFT hydrogels can modulate small molecule release and protect the activity of various enzymes and therapeutic bacteria in rat and porcine stomachs. Thus, LIFT hydrogels present a new platform capable of modulating and sustaining the activity of various drug types in the harsh gastrointestinal environment, enabling access to and oral delivery of advanced therapeutics for vulnerable patient populations.</details>
 
+<br />
+<br />
+
 #### Adrienne Scott, Washington University, St. Louis
+
+<br />
+<br />
 
 ### September 11, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 
@@ -94,7 +103,13 @@ Faster stress relaxation and higher Young’s modulus independently enhanced the
 
 More broadly, the tunable nature of the material developed could enable mechanistic insights into the role of changes in the stromal matrix in the promotion of health and disease. Specifically, it provides a platform to study the role of viscoelasticity on migration of normal leukocytes and diseased leukocytes such as those with Leukocyte Adhesion Deficiency-1. Taken together, our data raises the possibility that ECM stiffness and viscoelasticity could determine immune cell recruitment and ultimately shape the immune response under normal and pathological conditions.</details>
 
+<br />
+<br />
+
 #### Gurneet Sangha
+
+<br />
+<br />
 
 <img src="/public/seminar-photos/2023-09-11-Sarabipour.webp" alt="Dr. Sarabipour's photo" width="150px" id="photo-float"/>
 
@@ -109,13 +124,22 @@ We have developed and validated a molecularly-detailed computational model of th
 
 Our simulations and experiments show that VEGFR1 is less stable than VEGFR2 and NRP1 in endothelial cells – due to a faster internalization rate constant, resulting in increased overall degradation. In addition, the differential trafficking results in differential localization of the receptors: on the cell surface VEGFR2 is in excess over VEGFR1; while inside the cell, the reverse is true. This alters both the sensing of extracellular ligands and which receptors form signaling complexes and ligand decoys at the cell surface vs inside the cell. The presence of ligands and hypoxic conditions (both relevant to physiological and pathological conditions) further alter receptor trafficking and stability, and can be quantitatively accounted for in computational predictions of therapeutics.</details>
 
+<br />
+<br />
+
 ### September 25, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 
 <img src="/public/seminar-photos/2023-09-25-Ott.webp" alt="Dr. Moore-Ott's photo" width="150px" id="photo-float"/>
 
 #### Jenna Moore-Ott, Princeton University
 
+<br />
+<br />
+
 #### Mykel Green, University of Texas, Austin
+
+<br />
+<br />
 
 <img src="/public/seminar-photos/2023-09-25-Bushnell.webp" alt="Dr. Bushnell's photo" width="150px" id="photo-float"/>
 

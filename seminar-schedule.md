@@ -41,8 +41,6 @@ hydrogels, which exhibit an inherent porosity to support cell infiltration and a
 <br />
 <br />
 
-<img src="/public/seminar-photos/2022-08-15-Cyphert.webp" alt="Dr. Cyphert's photo" width="150px" id="photo-float"/>
-
 #### Russell Urie, University of Michigan
 
 Immunoengineering / Maternal-Fetal Health
@@ -55,7 +53,18 @@ Immunoengineering / Maternal-Fetal Health
 
 ### August 28, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 
+<img src="/public/seminar-photos/2023-08-28-Lanier.webp" alt="Dr. Lanier's photo" width="150px" id="photo-float"/>
+
 #### Olivia Lanier, University of Texas, Austin
+
+Leveraging Nanotechnology and Drug Delivery for Improved Health Equity
+
+<details><summary>Abstract</summary>
+Many variables contribute to the perpetuation of health disparities: environmental factors, social contributions, patient compliance, quality of care, and access to care. Access to care is affected by the delivery route of the therapeutic. Biologic (protein, RNA) therapeutics have revolutionized the care of multiple chronic autoimmune conditions but must be delivered parenterally via infusions from medical professionals, which further perpetuates health disparities. For patients for whom transportation constraints, poverty, mental illness, and limited hospital access – to name a few – are obstacles to their care, infusion-based therapies are not accessible. Nanotechnologies can be used to address health equity concerns by creating non-invasive delivery systems that utilize oral or vaginal routes that improve patient access and compliance to therapies.  I aim to replace infusions by creating nanotechnologies that protect therapeutics from degradation and bypass biological barriers (e.g. mucus and cell layers, pH, enzymes) associated with these routes. Additionally, this technology will control release to reduce dosing requirements and enable less complex treatment regimens. I will develop nanotechnology platforms to deliver biologics (RNA, proteins), with a particular focus on diseases that disproportionately affect underserved populations, and I will also analyze the role of biological sex, age, and ancestry on the performance of the developed nanotechnologies. 
+
+My talk will focus on one example of this work from my postdoctoral work at University of Texas at Austin. My project develops a pH sensitive nanotechnology platform for the oral delivery of small interfering RNA (siRNA) as a replacement for infusion therapy for treatment of inflammatory bowel disease. Challenges associated with the oral delivery of siRNA include the harsh pH of the stomach, enzymatic degradation, uptake of siRNA into macrophages in the intestines, and the need to undergo endosomal escape following intracellular delivery. To achieve this, a multi-layered system is proposed and will be developed with an anionic coating that protects its payload through the stomach and expands to release siRNA-loaded cationic nanogels under neutral pH conditions in the intestines. This dual layered platform can be applied to other autoimmune diseases in the future. Additionally, the role of sex is being explored in vitro on gene transfection and cytotoxicity.</details>
+
+<img src="/public/seminar-photos/2023-08-28-Liu.webp" alt="Dr. Liu's photo" width="150px" id="photo-float"/>
 
 #### Gary Liu, Massachusetts Institute of Technology
 
@@ -63,16 +72,29 @@ Immunoengineering / Maternal-Fetal Health
 
 ### September 11, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 
-#### Kolade Adebowale
+<img src="/public/seminar-photos/2023-09-11-Adebowale.webp" alt="Dr. Adebowale's photo" width="150px" id="photo-float"/>
+
+#### Kolade Adebowale, Harvard University
 
 #### Gurneet Sangha
 
-#### Sarvenaz Sarabipour
+<img src="/public/seminar-photos/2023-09-11-Sarabipour.webp" alt="Dr. Sarabipour's photo" width="150px" id="photo-float"/>
+
+#### Sarvenaz Sarabipour, Johns Hopkins University
 
 ### September 25, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 
-#### Jenna Moore-Ott
+<img src="/public/seminar-photos/2023-09-25-Ott.webp" alt="Dr. Moore-Ott's photo" width="150px" id="photo-float"/>
 
-#### Mykel Green
+#### Jenna Moore-Ott, Princeton University
 
-#### Grace Bushnell
+#### Mykel Green, University of Texas, Austin
+
+<img src="/public/seminar-photos/2023-09-25-Bushnell.webp" alt="Dr. Bushnell's photo" width="150px" id="photo-float"/>
+
+#### Grace Bushnell, University of Michigan
+
+Immunologic regulation of dormancy in breast cancer stem cells
+
+<details><summary>Abstract</summary>
+Despite the benefits of adjuvant therapy, patients with ER+ breast cancer face a constant risk of recurrence for the remainder of their life. A reservoir of disseminated tumor cells (DTCs) must exist that escape therapy, grow slowly or not at all, and can be reactivated. A major challenge to the understanding of these interactions is the lack of models of estrogen receptor positive dormancy in fully immunocompetent mice. We aim to address this by developing an immunocompetent model of breast cancer dormancy. We investigated five syngeneic murine breast cancer cell lines for long-term and short-term dormancy in vivo. We found three cell lines in which mice survive for >100d after intracardiac inoculation (compared to less than 20d for non-dormant cell lines). We further investigated the role of the immune system in these models by inoculating cells into mice with varying defects in adaptive or innate immunity. We found each cell line shows differential sensitivity to various immune compartment loss. The D2.0R cell line showed no requirement for dormancy on the adaptive immune system, however survival was significantly reduced in NSG mice compared to NODscid mice. To identify the cell type responsible, we depleted various immune cell populations and found natural killer (NK) cells were responsible for this survival difference. We next investigated the differential response of quiescent vs proliferative D2.0R cells to NK cells and found quiescent cells were resistant to NK cell killing compared to proliferative cells. We investigated the mechanism of this phenotypic difference via bulk RNAseq, single cell RNAseq, and Visium spatial gene expression analysis. We found the transcription factor Bach1 drives NK cell resistance through upregulation of MHC-I and downregulation of NKG2D ligand RAE1. Taken together these models provide a platform for the better understanding of the immune system role in maintaining breast cancer dormancy and identify a mechanism for quiescent tumor cell evasion of NK cell surveillance.</details>

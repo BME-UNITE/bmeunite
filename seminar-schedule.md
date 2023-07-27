@@ -68,6 +68,15 @@ My talk will focus on one example of this work from my postdoctoral work at Univ
 
 #### Gary Liu, Massachusetts Institute of Technology
 
+Biomaterials across length scales: a patient-scientist’s perspective
+
+<details><summary>Abstract</summary>
+Factors that may deter patient compliance with their medications include toxic side effects and administration discomfort. Biomaterials may address some of these urgent patient needs by altering pharmacokinetic profiles and enabling new methods of drug administration. In this talk I will share my 20+ years’ experience as a kidney disease patient, and how navigating a chronic disease has provided insight into the constraints, design, and development of new biomaterials. I will share how working with materials and animal models across length scales can address these patient challenges, and the opportunities of working at each length scale.
+
+Chronic disease patients face long-term drug courses that can result in persistent side effects. As a kidney disease patient navigating many such side effects, I sought to engineer new materials for renal-specific drug delivery. My Ph.D. sought to identify the materials properties of polymers and nanoparticles, two widely used classes of drug carriers, that drive their renal tropism. We synthesized a panel of polymers of similar size but varying anionic charge, and found that greater anionic charge augmented polymer accumulation into renal tissue. In contrast, nanoparticles of size 20- and 100-nm, but not 200-nm, accumulate in renal glomeruli but not tubules. Both materials types exhibit greater renal accumulation during renal disease. These findings provide insight into how materials properties can be tuned to drive accumulation into specified renal cell types, and how disease state may be leveraged to augment distribution.
+
+In the second part of my talk, I will highlight my postdoctoral work at the macroscale. Orally administered enzymes and bacteria can modulate disease through activity in the stomach and intestines, but are quickly inactivated in the harsh gastrointestinal environment. Strategies to stabilize these therapeutics use solid, excipient-containing formulations, which are inaccessible for pediatric and geriatric patients who have difficulty swallowing solids. To address this challenge, we developed LIFT (liquid in situ-forming and tough) hydrogels, which transition from a drinkable liquid to a tough, solid drug depot within the stomach. Comprising biocompatible poly(ethylene glycol) and alginate double polymer networks, LIFT rapidly forms a tough hydrogel in vivo in porcine stomachs, and can sustain multiple compressions compared to single-network hydrogels, which permanently deform after one compression. These materials were further examined for their multifunctionality. LIFT hydrogels can modulate small molecule release and protect the activity of various enzymes and therapeutic bacteria in rat and porcine stomachs. Thus, LIFT hydrogels present a new platform capable of modulating and sustaining the activity of various drug types in the harsh gastrointestinal environment, enabling access to and oral delivery of advanced therapeutics for vulnerable patient populations.</details>
+
 #### Adrienne Scott, Washington University, St. Louis
 
 ### September 11, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
@@ -76,11 +85,29 @@ My talk will focus on one example of this work from my postdoctoral work at Univ
 
 #### Kolade Adebowale, Harvard University
 
+<details><summary>Abstract</summary>
+Circulating monocytes are recruited to tumors, where they can differentiate into macrophages that mediate tumor progression. To reach the tumor microenvironment, monocytes extravasate out of the vasculature and migrate through type-1 collagen rich stromal matrix. The viscoelastic stromal matrix around tumors not only stiffens relative to normal stromal matrix, but often exhibits enhanced viscous characteristics, as indicated by faster stress relaxation rate. Stress relaxation refers to a decrease in internal stresses in viscoelastic materials because of applied deformation. Despite clinically observed changes in matrix properties, the potential impact of changes in matrix stiffness or stress relaxation on monocyte migration is not understood. To address this research gap, we studied how changes in matrix stiffness and viscoelasticity impact the three-dimensional migration of monocytes through stromal-like matrices.
+
+We developed interpenetrating networks (IPNs) of type-1 collagen and alginate with independent tunability of stiffness and stress relaxation over physiologically relevant ranges. IPNs provide a confining stromal-like matrices and a three-dimensional context experienced by monocytes in vivo. Collagen fiber architecture was quantified by measuring collagen fiber length and width. Importantly, IPN stress relaxation properties are tuned independent of polymer concentration, Young’s modulus, and collagen fiber architecture, allowing for independent assessment of matrix stress relaxation. We tuned the characteristic stress relaxation times from ~100 seconds (fast relaxing) to 1,000 seconds (slow relaxing) while keeping the initial Young’s modulus of all the materials at ~1 kPa or ~2.5 kPa.
+
+Faster stress relaxation and higher Young’s modulus independently enhanced the 3D migration of monocytes. Migrating monocytes have an ellipsoidal or rounded wedge-like morphology, reminiscent of amoeboid migration, with accumulation of actin at the trailing edge. Surprisingly, monocytes could migrate without matrix adhesion and Rho-mediated contractility but are dependent on actin polymerization for migration. Our mechanistic studies indicate that actin polymerization at the leading edge generates protrusive forces that generate a path to migrate in the confining viscoelastic matrices. In summary, our findings implicate matrix stiffness and stress relaxation as key mediators of migration.
+
+More broadly, the tunable nature of the material developed could enable mechanistic insights into the role of changes in the stromal matrix in the promotion of health and disease. Specifically, it provides a platform to study the role of viscoelasticity on migration of normal leukocytes and diseased leukocytes such as those with Leukocyte Adhesion Deficiency-1. Taken together, our data raises the possibility that ECM stiffness and viscoelasticity could determine immune cell recruitment and ultimately shape the immune response under normal and pathological conditions.</details>
+
 #### Gurneet Sangha
 
 <img src="/public/seminar-photos/2023-09-11-Sarabipour.webp" alt="Dr. Sarabipour's photo" width="150px" id="photo-float"/>
 
 #### Sarvenaz Sarabipour, Johns Hopkins University
+
+Mechanistic models of receptor trafficking dynamics
+
+<details><summary>Abstract</summary>
+Vascular endothelial growth factor (VEGF) controls the growth and regression of blood vessels. While some successes have been achieved in inhibition of VEGF to disrupt blood vessel growth in cancer and retinopathy, over a dozen clinical trials of VEGF delivery to increase vascular growth in patients with ischemic diseases have failed. The inability to successfully bridge treatment from animals to humans demonstrates that our understanding of the VEGF system is far from complete.
+
+We have developed and validated a molecularly-detailed computational model of the trafficking in endothelial cells of the key VEGF receptors: VEGFR1, VEGFR2, and Neuropilin-1. The model uses coupled, nonlinear, deterministic ordinary differential equations simulating receptor dimerization, ligand-receptor binding, and the trafficking of transmembrane receptors. Crucially, the model is parameterized using new in vitro experiments of human endothelial cell culture treated with ligands, drugs, and targeted shRNAs that perturb trafficking, including experiments predicted by the model to be most informative.
+
+Our simulations and experiments show that VEGFR1 is less stable than VEGFR2 and NRP1 in endothelial cells – due to a faster internalization rate constant, resulting in increased overall degradation. In addition, the differential trafficking results in differential localization of the receptors: on the cell surface VEGFR2 is in excess over VEGFR1; while inside the cell, the reverse is true. This alters both the sensing of extracellular ligands and which receptors form signaling complexes and ligand decoys at the cell surface vs inside the cell. The presence of ligands and hypoxic conditions (both relevant to physiological and pathological conditions) further alter receptor trafficking and stability, and can be quantitatively accounted for in computational predictions of therapeutics.</details>
 
 ### September 25, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
 

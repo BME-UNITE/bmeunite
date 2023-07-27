@@ -106,7 +106,7 @@ More broadly, the tunable nature of the material developed could enable mechanis
 <br />
 <br />
 
-#### Gurneet Sangha
+#### Gurneet Sangha, University of Maryland
 
 <br />
 <br />

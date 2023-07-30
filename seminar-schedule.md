@@ -123,6 +123,7 @@ More broadly, the tunable nature of the material developed could enable mechanis
 
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2023-09-11-Sangha.webp" alt="Dr. Sangha's photo" width="150px" id="photo-float"/>
 
@@ -133,6 +134,7 @@ Going with the Flow: The Evolving Role of Red Blood Cell Mechanosignaling in Vas
 <details><summary>Abstract</summary>
 Red blood cells (RBCs), once thought to solely transport O2 and CO2, are now recognized to actively contribute to vascular health and disease. In addition to carrying hemoglobin, RBCs contain enzymes, metabolites, antioxidants, cytokines, and miRNAs that affect vascular function. RBCs are also mechanosensitive, releasing these molecular signals as they deform while traversing the microcirculation. Yet, we do not understand how biomolecules released by mechanostimulated RBCs affect endothelial dysfunction, the initial hallmark of vascular disease. As a result, the use of RBCs to diagnose and treat vascular disease remains limited. My current research investigates how mechanostimulated RBC production and release of nitric oxide and extracellular vesicles (EVs) impact endothelial function. Nitric oxide is an atheroprotective signaling molecule crucial to maintaining endothelial function, while RBC-EVs are lipid-bound particles that protect and then systemically transport RBC cargo to endothelial cells throughout the vasculature. In this talk, I will first highlight my mechanistic in vitro studies showing that stimulation of the mechanosensitive Ca2+ ion channel piezo1 triggers RBC nitric oxide and RBC-EV production. I will then share my in silico simulations using HemoCell to understand the dynamic forces RBCs experience in circulation that may activate mechanosensitive signaling. Finally, I will conclude with my preliminary research using exercise as an in vivo model to study how increased blood flow and exercise-induced adaptative mechanisms affect RBC mechanosignaling.</details>
 
+<br />
 <br />
 <br />
 
@@ -165,6 +167,7 @@ I am currently finishing my PhD at Princeton University, advised by Prof. Sujit 
 
 With my biophysical background from my PhD and my anticipated background in synthetic biology from my incoming postdoctoral research, I will have the scientific foundation to lead the Inside-Out Lab: Engineering Microbial Communities from the Inside-Out. Specifically, we will utilize the spatial control of bioprinting with the microbial classification tools from synthetic biology to probe (1) enhanced biofilm formation in multispecies communities, (2) division of labor within biofilms, and (3) biofilm-enhanced plastic degradation. With all research areas, we will develop minimal biophysical models to capture the essential physics of these complex systems, underlying our overarching goal of harnessing these communities in our environment and human health.</details>
 
+<br />
 <br />
 <br />
 

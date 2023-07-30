@@ -170,6 +170,7 @@ With my biophysical background from my PhD and my anticipated background in synt
 <br />
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2023-09-25-Green.webp" alt="Dr. Green's photo" width="150px" id="photo-float"/>
 

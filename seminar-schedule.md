@@ -39,6 +39,8 @@ From microspheres to rods: Prior work with injectable, acellular bulk hydrogels 
 <br />
 <br />
 
+<img src="/public/seminar-photos/2023-08-14-Urie.webp" alt="Dr. Urie's photo" width="150px" id="photo-float"/>
+
 #### Russell Urie, University of Michigan
 
 Sentinel Biomaterials Identify Transplant Rejection and Prenatal Complications
@@ -88,6 +90,8 @@ In the second part of my talk, I will highlight my postdoctoral work at the macr
 <br />
 <br />
 
+<img src="/public/seminar-photos/2023-08-28-Scott.webp" alt="Dr. Scott's photo" width="150px" id="photo-float"/>
+
 #### Adrienne Scott, Washington University, St. Louis
 
 Mechanically induced cell fate changes in pregnancy 
@@ -119,6 +123,8 @@ More broadly, the tunable nature of the material developed could enable mechanis
 
 <br />
 <br />
+
+<img src="/public/seminar-photos/2023-09-11-Sangha.webp" alt="Dr. Sangha's photo" width="150px" id="photo-float"/>
 
 #### Gurneet Sangha, University of Maryland
 
@@ -162,7 +168,14 @@ With my biophysical background from my PhD and my anticipated background in synt
 <br />
 <br />
 
+<img src="/public/seminar-photos/2023-09-25-Green.webp" alt="Dr. Green's photo" width="150px" id="photo-float"/>
+
 #### Mykel Green, University of Texas, Austin
+
+Health Equity Focused Strategies for Biomaterial-Based Therapies in Sickle Cell Disease and Beyond
+
+<details><summary>Abstract</summary>
+Sickle cell disease (SCD) is a complex and devastating blood disorder affecting nearly 20 million people globally and has been overlooked by the greater scientific community for the past 20 years. Despite being the focus of gene-editing technology development, public perception of gene therapy has created a misconception that new treatments for SCD are no longer necessary. Understanding the physiology of bone marrow and stem cell engraftment, especially in SCD, remains insufficient. To tackle this, my research program will expand on my doctoral work to investigate how bone and marrow mechanobiology influences the regulation of the hematopoietic niche, particularly concerning age and biological sex. This knowledge will enhance the development of bone marrow transplantation technology I'm working on during my postdoctoral position, specifically tailored to address SCD-related complications. Moreover, the biomaterial platform developed in this research can potentially treat myeloma, leukemia, and aplastic anemia and manage clinical implications associated with bone marrow transplantation.</details>
 
 <br />
 <br />

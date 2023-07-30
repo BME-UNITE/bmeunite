@@ -38,15 +38,21 @@ From microspheres to rods: Prior work with injectable, acellular bulk hydrogels 
 
 <br />
 <br />
-<br />
 
 #### Russell Urie, University of Michigan
 
-Immunoengineering / Maternal-Fetal Health
+Sentinel Biomaterials Identify Transplant Rejection and Prenatal Complications
 
-<br />
-<br />
-<br />
+<details><summary>Abstract</summary>
+Introduction: As there is no assay to predict alloimmunity in transplant or fetal rejection, clinicians rely on invasive tissue biopsy and aggressive immunosuppression. Immunosuppression protects transplants but increases systemic toxicities. Also, nearly half of all cases of prenatal complication have an undefined immune basis. This immune cascade inhibits placenta development, yet the clinic focuses on later disease stages. Primary tissue histology is a flawed standard for alloimmunity surveillance and diagnostics, as histological evidence of rejection inherently lags behind molecular biomarkers and suffers from variability. Noninvasive alternatives, including gene profiling and cell-free DNA, also measure lagging indicators of rejection. A minimally invasive surveillance method is urgently needed to identify early risk of rejection for minimizing invasive procedures and personalizing interventions.
+I have developed porous biomaterial implants (“scaffolds”) for minimally-invasive sampling. These scaffolds amass immune cells producing biomarkers of disease as an engineered immunological niche, and gene expression in biopsied scaffolds predicts disease onset. In this work, I employ microporous scaffolds as a synthetic immunological niche to capture the longitudinal immune domain of healthy and rejecting transplants and healthy and miscarriage-prone rodent pregnancies without needing to disrupt the primary tissue and with greater specificity than blood.
+
+Methods: Biomaterial scaffolds accumulate immune cells producing biomarkers of rejection as an engineered immunological niche. We implanted subcutaneous poly-caprolactone scaffolds in murine heart transplant recipients and miscarriage-prone pregnancies. Scaffolds were biopsied and analyzed for differential gene expression by RNA sequencing using elastic net regularization for differential expression across mice, tissue, and day to generate a biomarker signature of rejection. We performed singular value decomposition and supervised machine learning (Random Forest) to derive single-metric scores and a predictive model for graft or fetus rejection.
+
+Results and Conclusions: Gene expression in the cell-capture scaffold identified biomarker signatures of early rejection in heart transplant (Fig 1) and miscarriage prone pregnancies, without invasive biopsy. This implantable scaffold enables minimally invasive histological evaluation and molecular calculation of the early risk of rejection to reduce the frequency of invasive biopsy and personalize treatment to prevent alloinjury. In healthy and preeclamptic-like pregnancies, the scaffold implant recapitulates the immune microenvironment of the placenta with greater tissue specificity than blood. Gene expression in the scaffold can distinguish between gestation at different stages and immunological states. We identified 8 genes that differentiate between allogeneic and syngeneic pregnancies at embryonic day 5, prior to fetal or placental organogenesis.
+
+We have developed an implant to remotely monitor immunological markers of alloimmunity in transplantation and pregnancy. Scaffold gene expression can differentiate immune state across time and disease progression prior to the onset of symptoms, creating an early, novel therapeutic window to prevent transplant or fetal injury.</details>
+
 <br />
 <br />
 
@@ -84,6 +90,15 @@ In the second part of my talk, I will highlight my postdoctoral work at the macr
 
 #### Adrienne Scott, Washington University, St. Louis
 
+Mechanically induced cell fate changes in pregnancy 
+
+<details><summary>Abstract</summary>
+Severe maternal morbidity and maternal mortality has been steadily increasing over time in the United States. Globally, ten percent of all pregnancies result in preterm birth and 2 million pregnancies worldwide result in stillbirth. Critical maternal health issues leading to this growing crisis have been underexplored in the field of engineering. Our research strives to improve maternal health by using engineering and molecular biology tools to understand multiscale observations through biological mechanisms. Specifically, we are inspired to explore how adaptations to changing mechanical environments alter cellular responses and cell fate during and after pregnancy. During pregnancy, the uterus expands to one thousand times the original size and the physical properties of uterine and cervical tissues change drastically due to tissue remodeling. Overall, we hypothesize that understanding how cells respond to mechanical signals in pregnancy will elucidate therapeutic strategies to prevent high risk pregnancies, such as preterm birth. 
+
+Our previous work demonstrates that changing mechanical environments induce remodeling of epigenetically marked chromatin, causing alterations in gene expression and the overall phenotype of the cell. Furthermore, we found that mechanically induced remodeling of epigenetically marked chromatin can persist, even after the initial mechanical stimulus is removed. In other words, cells retain a mechanical memory encoded in the chromatin architecture. Specifically, we found that the architecture of H3K9me3 marked chromatin changes in response to the mechanical environment, in both cardiomyocytes in the heart and chondrocytes in articular cartilage. Future work could apply similar methods to study the extent adaptations of uterine smooth muscle cells or cervical fibroblasts to changing mechanical signals in pregnancy may also induce long term memory encoded in the chromatin architecture of these cells. 
+
+Our current research focuses on using engineering tools to model and understand how the mechanical environment changes in pregnancies with complications, such as with uterine scaring from a previous C-section or with Fetal Growth Restriction. Using finite element modeling, we have found that the placement of a uterine scar influences uterine mechanics in a subsequent pregnancy, which may have implications for an increased risk of pre-term birth or uterine rupture. Additionally, we are studying tissue remodeling and the micromechanical environment in the placenta of Fetal Growth Restriction pregnancies to inform computational models of oxygen transport and blood flow. In the future, these computational models will be used to understand how the mechanical environment changes during pregnancy to inform the design of mechanobiology experiments. With these tools, we are now poised to explore the underlying mechanotransduction mechanisms that result in multiscale short and long-term adaptations of the female reproductive system.</details>
+
 <br />
 <br />
 
@@ -106,6 +121,11 @@ More broadly, the tunable nature of the material developed could enable mechanis
 <br />
 
 #### Gurneet Sangha, University of Maryland
+
+Going with the Flow: The Evolving Role of Red Blood Cell Mechanosignaling in Vascular Health and Disease
+
+<details><summary>Abstract</summary>
+Red blood cells (RBCs), once thought to solely transport O2 and CO2, are now recognized to actively contribute to vascular health and disease. In addition to carrying hemoglobin, RBCs contain enzymes, metabolites, antioxidants, cytokines, and miRNAs that affect vascular function. RBCs are also mechanosensitive, releasing these molecular signals as they deform while traversing the microcirculation. Yet, we do not understand how biomolecules released by mechanostimulated RBCs affect endothelial dysfunction, the initial hallmark of vascular disease. As a result, the use of RBCs to diagnose and treat vascular disease remains limited. My current research investigates how mechanostimulated RBC production and release of nitric oxide and extracellular vesicles (EVs) impact endothelial function. Nitric oxide is an atheroprotective signaling molecule crucial to maintaining endothelial function, while RBC-EVs are lipid-bound particles that protect and then systemically transport RBC cargo to endothelial cells throughout the vasculature. In this talk, I will first highlight my mechanistic in vitro studies showing that stimulation of the mechanosensitive Ca2+ ion channel piezo1 triggers RBC nitric oxide and RBC-EV production. I will then share my in silico simulations using HemoCell to understand the dynamic forces RBCs experience in circulation that may activate mechanosensitive signaling. Finally, I will conclude with my preliminary research using exercise as an in vivo model to study how increased blood flow and exercise-induced adaptative mechanisms affect RBC mechanosignaling.</details>
 
 <br />
 <br />
@@ -139,7 +159,6 @@ I am currently finishing my PhD at Princeton University, advised by Prof. Sujit 
 
 With my biophysical background from my PhD and my anticipated background in synthetic biology from my incoming postdoctoral research, I will have the scientific foundation to lead the Inside-Out Lab: Engineering Microbial Communities from the Inside-Out. Specifically, we will utilize the spatial control of bioprinting with the microbial classification tools from synthetic biology to probe (1) enhanced biofilm formation in multispecies communities, (2) division of labor within biofilms, and (3) biofilm-enhanced plastic degradation. With all research areas, we will develop minimal biophysical models to capture the essential physics of these complex systems, underlying our overarching goal of harnessing these communities in our environment and human health.</details>
 
-<br />
 <br />
 <br />
 

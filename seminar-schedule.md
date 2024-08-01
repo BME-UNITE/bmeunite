@@ -7,7 +7,7 @@ exclude: true
 ### August 12, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
 
-<img src="/public/seminar-photos/2023-08-14-Zambuto.webp" alt="Dr. Matilla's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Alonso-Matilla.webp" alt="Dr. Matilla's photo" width="150px" id="photo-float"/>
 
 #### Roberto Alonso Matilla, University of Minnesota
 
@@ -19,7 +19,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-08-14-Rodriguez.webp" alt="Dr. Duarte's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Duarte.webp" alt="Dr. Duarte's photo" width="150px" id="photo-float"/>
 
 #### Camilo Duarte-Cordon, Columbia University
 
@@ -31,7 +31,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-08-14-Urie.webp" alt="Dr. Chang's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Chang.webp" alt="Dr. Chang's photo" width="150px" id="photo-float"/>
 
 #### Chia-Wen Chang, University of Illinois Urbana-Champaign
 
@@ -45,7 +45,7 @@ ABSTRACT</details>
 
 ### August 26, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
-<img src="/public/seminar-photos/2023-08-28-Lanier.webp" alt="Dr. Lanier's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Fung.webp" alt="Dr. Fung's photo" width="150px" id="photo-float"/>
 
 #### Stephanie Fung, Children’s Hospital of Philadelphia
 
@@ -57,7 +57,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-08-28-Liu.webp" alt="Dr. Liu's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Moscoso.webp" alt="Dr. Moscoso Barrera's photo" width="150px" id="photo-float"/>
 
 #### William Moscoso Barrera, University of Texas at Austin
 
@@ -69,7 +69,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-08-28-Scott.webp" alt="Dr. Scott's photo" width="150px" id="photo-float"/>
+<!--<img src="/public/seminar-photos/2024/Burrow.webp" alt="Dr. Burrow's photo" width="150px" id="photo-float"/>
 
 #### Joshua Burrow, AFFILIATION
 
@@ -79,11 +79,11 @@ TITLE
 ABSTRACT</details>
 
 <br />
-<br />
+<br />//-->
 
 ### September 9, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
-<img src="/public/seminar-photos/2023-09-11-Adebowale.webp" alt="Dr. Mack's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Mack.webp" alt="Dr. Mack's photo" width="150px" id="photo-float"/>
 
 #### Nzinga Mack, Johns Hopkins University
 
@@ -95,7 +95,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-09-11-Sangha.webp" alt="Dr. Jain's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Jain.webp" alt="Dr. Jain's photo" width="150px" id="photo-float"/>
 
 #### Ishita Jain, Stanford University
 
@@ -121,7 +121,7 @@ ABSTRACT</details>
 
 ### September 23, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
-<img src="/public/seminar-photos/2023-09-25-Ott.webp" alt="Dr. Clayton's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Clayton.webp" alt="Dr. Clayton's photo" width="150px" id="photo-float"/>
 
 #### Sade Williams Clayton, Washington University in St. Louis
 
@@ -145,7 +145,7 @@ ABSTRACT</details>
 <br />
 <br />
 
-<img src="/public/seminar-photos/2023-09-25-Bushnell.webp" alt="Dr. Gamboa's photo" width="150px" id="photo-float"/>
+<img src="/public/seminar-photos/2024/Gamboa.webp" alt="Dr. Gamboa's photo" width="150px" id="photo-float"/>
 
 #### Lena Gamboa, Emory University and Georgia Institute of Technology
 

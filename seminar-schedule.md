@@ -9,7 +9,7 @@ exclude: true
 
 <img src="/public/seminar-photos/2023-08-14-Zambuto.webp" alt="Dr. Matilla's photo" width="150px" id="photo-float"/>
 
-#### Roberto Alonso Matilla, AFFILIATION
+#### Roberto Alonso Matilla, University of Minnesota
 
 TITLE
 
@@ -21,7 +21,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-08-14-Rodriguez.webp" alt="Dr. Duarte's photo" width="150px" id="photo-float"/>
 
-#### Camilo Duarte, AFFILIATION
+#### Camilo Duarte-Cordon, Columbia University
 
 TITLE
 
@@ -33,7 +33,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-08-14-Urie.webp" alt="Dr. Chang's photo" width="150px" id="photo-float"/>
 
-#### Chia-Wen Chang, AFFILIATION
+#### Chia-Wen Chang, University of Illinois Urbana-Champaign
 
 TITLE
 
@@ -47,7 +47,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-08-28-Lanier.webp" alt="Dr. Lanier's photo" width="150px" id="photo-float"/>
 
-#### Stephanie Fung, AFFILIATION
+#### Stephanie Fung, Children’s Hospital of Philadelphia
 
 TITLE
 
@@ -59,7 +59,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-08-28-Liu.webp" alt="Dr. Liu's photo" width="150px" id="photo-float"/>
 
-#### William Moscoso, AFFILIATION
+#### William Moscoso Barrera, University of Texas at Austin
 
 TITLE
 
@@ -85,7 +85,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-09-11-Adebowale.webp" alt="Dr. Mack's photo" width="150px" id="photo-float"/>
 
-#### Nzinga Mack, AFFILIATION
+#### Nzinga Mack, Johns Hopkins University
 
 TITLE
 
@@ -97,7 +97,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-09-11-Sangha.webp" alt="Dr. Jain's photo" width="150px" id="photo-float"/>
 
-#### Ishita Jain, AFFILIATION
+#### Ishita Jain, Stanford University
 
 TITLE
 
@@ -109,7 +109,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2024/Jakubowski.webp" alt="Dr. Jakubowski's photo" width="150px" id="photo-float"/>
 
-#### Kristen Jakubowski, AFFILIATION
+#### Kristen Jakubowski, Emory University and Georgia Institute of Technology
 
 TITLE
 
@@ -123,7 +123,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-09-25-Ott.webp" alt="Dr. Clayton's photo" width="150px" id="photo-float"/>
 
-#### Sade Clayton
+#### Sade Williams Clayton, Washington University in St. Louis
 
 TITLE
 
@@ -135,7 +135,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2024/Silva.webp" alt="Dr. Silva's photo" width="150px" id="photo-float"/>
 
-#### Tania Lopez Silva
+#### Tania Lopez Silva, National Cancer Institute
 
 TITLE
 
@@ -147,7 +147,7 @@ ABSTRACT</details>
 
 <img src="/public/seminar-photos/2023-09-25-Bushnell.webp" alt="Dr. Gamboa's photo" width="150px" id="photo-float"/>
 
-#### Lena Gamboa
+#### Lena Gamboa, Emory University and Georgia Institute of Technology
 
 TITLE
 

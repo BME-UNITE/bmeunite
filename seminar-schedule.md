@@ -100,10 +100,12 @@ ABSTRACT</details>
 
 #### Ishita Jain, Stanford University
 
-TITLE
+Computational Modeling in Tissue Engineering: A Multi-Omics and Machine Learning Perspective
 
 <details><summary>Abstract</summary>
-ABSTRACT</details>
+The bioengineering field faces a next-generation challenge: systematically analyzing the vast data generated daily. In tissue engineering and regenerative medicine, optimizing multiple parameters and analyzing cellular behavior is crucial. High-throughput technologies and next-generation sequencing enable testing numerous parameters and gaining detailed insights into cellular behavior. However, novel analysis pipelines and complex algorithms are needed to choose parameters and innovatively analyze cellular behavior.
+This talk presents three stories demonstrating how these pipelines led to new findings in liver and cardiovascular regenerative medicine. First, I will discuss my past work using high-throughput technologies and multi-omics to identify new target genes in hepatic stellate cells for non-alcoholic fatty liver disease. Next, I will share my current work developing novel 3D hydrogels to study endothelial to mesenchymal transition in atherosclerosis and using single-cell transcriptomics to analyze cellular behavior. Additionally, I will discuss a collaboration with the FDA on designing an AI model to predict optimal culture properties for mesenchymal stem cell manufacturing and developing a clinical benchmark for in vitro manufacturing of MSCs.
+Finally, I will outline my plans to integrate computational approaches to understand in vitro blood vessel development and design artificial in vitro blood vessels with varied structural and functional properties. More specifically, I will showcase the integration of multi-omics and machine learning to build in silico tissues for mechanistic studies that will iteratively guide the design of next generation therapeutics.</details>
 
 <br />
 <br />

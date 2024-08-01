@@ -20,7 +20,6 @@ Leukemia cell cytokinesis: The actomyosin-based machinery that drives cell divis
 <br />
 <br />
 <br />
-<br />
 
 <img src="/public/seminar-photos/2024/Duarte.webp" alt="Dr. Duarte's photo" width="150px" id="photo-float"/>
 

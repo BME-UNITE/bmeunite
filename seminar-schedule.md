@@ -19,6 +19,7 @@ Leukemia cell cytokinesis: The actomyosin-based machinery that drives cell divis
 
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2024/Duarte.webp" alt="Dr. Duarte's photo" width="150px" id="photo-float"/>
 
@@ -29,6 +30,7 @@ An anisotropic viscoelastic model of the macaque rhesus cervix to quantify cervi
 <details><summary>Abstract</summary>
 Through pregnancy, the cervix, a collagenous and hydrated tissue, undergoes a remarkable transformation from a rigid/closed structure that keeps the fetus inside the uterus to a more compliant/extensible one that opens to facilitate delivery at parturition. This process, known as cervical remodeling, involves complex changes in the cervix's equilibrium and dynamic mechanical properties, such as stiffness, viscoelasticity, and permeability. Constitutive models of the cervix extracellular matrix (ECM) calibrated with experimental data at equilibrium and obtained from animal cervical tissue, primarily rodents, have proven helpful in studying how the cervix softens through gestation. Recently, a poro-viscoelastic model of the human cervix was used to describe the human cervix's time-dependent behavior but limited to compressive strains and two gestational points (pregnant and nonpregnant). The variations in the cervix's intrinsic viscoelastic properties under tension at different pregnancy stages have not yet been thoroughly studied, which is crucial for understanding better cervical remodeling. Building upon these previous constitutive models, we implemented an anisotropic viscoelastic model of the cervix ECM, which captures the viscoelastic behavior of the cervix under tensile deformation. To calibrate our model, we used force-displacement experimental data from spherical indentation and uniaxial tension tests in cervix samples from Rhesus Macaques, chosen because of their homology to humans, and collected at four relevant gestational time points. We observed that Rhesus Macaque cervical tissue is non-linear elastic, and the stiffness of the toe and linear region decreases with gestational age. Furthermore, the time relaxation properties of cervical tissue differ significantly between nonpregnant/early pregnant and late pregnant stages. This work gives insights into normal cervical remodeling, which is crucial to developing diagnostic methods and treatments for preterm birth (birth before 37 weeks).</details>
 
+<br />
 <br />
 <br />
 
@@ -43,6 +45,7 @@ Glioblastoma (GBM) is the most common and aggressive form of primary brain cance
 
 <br />
 <br />
+<br />
 
 ### August 26, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
@@ -53,6 +56,7 @@ Glioblastoma (GBM) is the most common and aggressive form of primary brain cance
 <details><summary>Abstract</summary>
 Microphthalmia and anophthalmia, congenital conditions where a child is born with at least one abnormally small or missing eyeball, puts the afflicted at risk for abnormal facial development. Absence of an eyeball hinders normal orbital and facial growth, which leads to deformities that impede social interactions. Early intervention is critical to maintain symmetrical development and enable implantation of a permanent prosthetic eye later in life. Currently, the standard of care is a self-inflating osmotic expander to guide bone and soft tissue expansion. These hydrogel devices have several limitations. They expand rapidly, which can lead to pain and inflammation of the surrounding tissue. They are composed of a singular material that expands isotropically, which does not produce the spatially differential pressures required to properly expand a composite tissue like the orbital socket. Furthermore, the expanders are typically left in for weeks or months at a time, and biofilm formation on this device is a source of concern. The goal of this work is to identify a biomaterial formulation that promotes soft tissue and bone tissue expansion while mitigating the disadvantages of the current product used in the clinic. We achieved this goal by modulating chemical composition to control swelling potential and by utilizing an interpenetrating network of chitosan within the synthetic hydrogel. Chitosan has antimicrobial properties and is degraded by lysozyme, an enzyme that occurs naturally in human tears. We hypothesized that this interpenetrating network would control the initial rate of expansion, and degradation of the network under physiological conditions would result in a linear rate of swelling over an extended period of time. Hydrogels with varying ratios of methyl methacrylate, n-vinyl pyrrolidone (NVP), and crosslinker were synthesized via bulk free radical polymerization using azobisisobutyronitrile (AIBN) as a thermal initiator. Saponification of the gels produced an ionic hydrogel. Swelling potential of the base hydrogel was controlled by monomer percentage, percent ionization, initiator concentration, and crosslinker concentration. Percent mass change at equilibrium ranged from 150-800%, and this range included formulations with swelling behavior comparable to the industry standard. While the base hydrogel, like the industry standard, exhibited a rapid swelling rate, the chitosan interpenetrating network mitigated this limitation by providing a means of restricting and controlling network expansion. The chitosan network degraded in the presence of lysozyme, leading to a linear, crosslinker concentrationdependent increase in hydrogel swelling over time. When implanted subcutaneously in rats, the hydrogels expanded to a similar degree as they did ex vivo. The explanted hydrogels were surrounded by a thin, loose fibrous capsule, and no signs of inflammation were observed after 14 days. This work produced a library of hydrogel formulations that exert a broad range of osmotic pressures when implanted. Consequently, we are now capable of rationally designing multi-formulation devices to spatially control pressure exertion tailored to patient-specific craniofacial geometries.</details>
 
+<br />
 <br />
 <br />
 
@@ -66,6 +70,7 @@ Application of Low Intensity Focused Ultrasound for Peripheral Nerve Pain
 Pain, as defined by the International Association for the Study of Pain (IASP), is an unpleasant bodily signal associated with immediate or potential tissue damage, universally experienced but uniquely perceived by everyone. In 2021, the Centers for Disease Control and Prevention conducted a study revealing that approximately 21% of adults in the United States experience chronic pain, defined as pain occurring every day or most days for at least three months. Direct consequences of severe pain include loss of strength, reliance on medication, and disrupted sleep. Pain can induce significant changes in both the central and peripheral nervous systems. Some of these changes are adaptive and short-lived, while others may become maladaptive and lead to the development of chronic pain.
 Low-Intensity Focused Ultrasound (LIFU) is a novel, non-invasive method with the advantage of precise stimulation in deep tissues. This seminar presents the context of LIFU use and some preliminary results related to its potential for treating peripheral nerve pain through neurostimulation.</details>
 
+<br />
 <br />
 <br />
 
@@ -87,11 +92,13 @@ ABSTRACT</details>
 
 #### Nzinga Mack, Johns Hopkins University
 
-TITLE
-
 <details><summary>Abstract</summary>
-ABSTRACT</details>
+My research interests lie at the intersections between cancer, autoimmunity, and hyperinflammation, applying both wet lab and computational tools to unlock potential treatments for these disorders. I am uniquely situated to delve into these areas using a diverse set of methodologies, building on my doctoral work which focused on biochemical experiments related to cancer treatment, and my postdoctoral work which is focused on applying computational tools to immunological research. My current research focuses on Interleukin-2 (IL-2), which stimulates the survival, activation, and expansion of T lymphocytes. Due to its critical role in immune function, the IL-2 cytokine has been FDA-approved for the treatment of certain metastatic cancers and used clinically for the treatment of autoimmune conditions such as type 1 diabetes and for the prevention of transplant rejection. However, the off-target effects of IL-2 and its vanishingly short half-life have hampered clinical progress. To circumvent the therapeutic shortcomings of natural cytokines, our lab has tethered IL-2 to anti-IL-2 antibodies to form immunocytokines, which enhance target specificity and significantly prolong serum persistence of IL-2. To advance therapeutic translation, we are building a computational pharmacological model that mechanistically characterizes the activity of IL-2 and IL-2-based immunocytokines. 
+Our model incorporated ligand-receptor binding, trafficking dynamics, and signaling in two cell types (T-effector and T-regulatory lymphocytes). The level of IL-2 signaling induction (represented in the model as ligand-receptor binding) was used as a predictor of downstream signaling and validated against experimental measurements of signaling induced by IL-2 and IL-2-based immunocytokines. To replicate the experimental data, we introduced an intermediate signaling step between the ligand-receptor activation and the signaling readout, using a Hill function to permit amplification of the receptor activation. This transformation allowed for the previously measured binding affinities to reproduce the observed cell-type-specific and ligand-specific responses to IL-2 and IL-2-based immunocytokines using a consistent set of parameters. We are next translating the mechanistic model to a computational pharmacological model to simulate IL-2 and IL-2-based immunocytokines as therapeutics in the body, to help accelerate therapeutic regimen development. 
+Looking further in the future, my vision is to have my lab - the Mack Lab – build upon the cancer and immunology expertise that I have gained throughout my training to focus on the intersections between cancer, autoimmunity and hyperinflammation. On the wet lab side, I would like my lab to explore the alterations in energy metabolism that is characteristic of both cancer cells and activated immune cells to unlock potential treatments. In addition, I’d like my lab to explore the biology of the links between these three areas. 
+On the translational side, I intend to have my lab build computational mechanistic models of cancer and autoimmune treatments and expand them to computational pharmacokinetic/(PK/PD) models to inform clinical trials and lay the foundation for personalized medicine. In addition, my lab would also use artificial intelligence to build machine learning models to determine which clinical indicators are most important in determining disease severity and therefore should be prioritized for intervention. I envision the Mack Lab driving forward our understanding of the overlaps between cancer, autoimmunity and hyperinflammation, while using both wet lab and computational tools simultaneously to unlock potential treatments for these disorders.</details>
 
+<br />
 <br />
 <br />
 
@@ -108,6 +115,7 @@ Finally, I will outline my plans to integrate computational approaches to unders
 
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2024/Jakubowski.webp" alt="Dr. Jakubowski's photo" width="150px" id="photo-float"/>
 
@@ -118,6 +126,7 @@ Restoring, maintaining, and augmenting neuromuscular health and mobility through
 <details><summary>Abstract</summary>
 Preserving mobility is a key public health challenge. Lower limb robotic exoskeletons have been developed as a tool for improving mobility. Yet, it remains an open question on how exoskeletons should be designed and controlled to best elicit positive, rehabilitative benefits. Contributing to this gap is 1) a limited understanding of the individual-specific mechanisms driving impaired mobility to determine what component of the neuromuscular system a rehabilitative exoskeleton should target, and 2) devices lack feedback on how the human neuromuscular system reacts and adapts to the device to ensure the device is eliciting the desired rehabilitative effect while also working seamlessly with the wearer. In this seminar, I will highlight my work to address these gaps by: 1) identifying the underlying mechanisms contributing to mobility impairments using joint and whole-body measurements, 2) developing neuromechanics-informed exoskeleton control paradigms, and 3) quantifying how the human neuromuscular system reacts and adapts to exoskeletons. In combination, this work provides a framework for the development of lower limb robotic exoskeletons that are rehabilitative tools for maintaining mobility across an individual's life.</details>
 
+<br />
 <br />
 <br />
 
@@ -133,16 +142,16 @@ The importance of immune cells in facilitating healing has been well characteriz
 
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2024/Silva.webp" alt="Dr. Silva's photo" width="150px" id="photo-float"/>
 
 #### Tania Lopez Silva, National Cancer Institute
 
-TITLE
-
 <details><summary>Abstract</summary>
-ABSTRACT</details>
+Material-based immunomodulation using nanofibrous peptide hydrogels Material-based strategies to elicit specific immune responses can be transformative in developing more effective immunotherapies. Common strategies using materials for immunomodulation rely on the delivery of drugs, biomolecules, or cells. However, materials have intrinsic properties that can be exploited to recruit specific cell types and activate or suppress the immune system. A unique class of materials exhibiting immunomodulatory effects is self-assembling peptide hydrogels. These materials comprise short peptides that assemble into nanofibers and form highly hydrated 3D networks. They offer high versatility for material design as we can tune their sequence, structure, and mechanical properties. To fully harness the potential of peptide materials for immunomodulation, it is critical to understand how peptide design affects the immune response and to elucidate the relevant factors and cell-nanofiber interactions responsible for those responses. This work focuses on the comprehensive characterization of the immune response to a family of peptide hydrogels with a range of highly positive, neutral (zwitterionic), and negative charges. These materials have similar viscoelastic properties and nanofibrous structure, which ensures that the net charge and charge distribution are the main determining factors eliciting the observed immune responses. We evaluated the immune response to this family of peptide gels using a subcutaneous injection model combined with ultrasound imaging, tissue analyses, flow cytometry, and multiplex immunoassays. We observed distinct and divergent host responses elicited by the differentially charged peptide gels, indicating the influence of material attributes on the immune response. In particular, we found that material charge can be used to control the recruitment of neutrophils and Neutrophil Extracellular Trap (NET) formation. Our system facilitates anatomical and locoregional control of NET formation directly within a hydrogel implant, and we can fine-tune inflammation and the degree of NET formation in vivo by employing composites of gels with different charges. This project contributes to elucidating basic principles for peptide material design that we can use to control the immune system without the need for exogenous additives. Harnessing the power of the immune system using peptide materials will allow us to enhance current therapies, particularly for cancer.</details>
 
+<br />
 <br />
 <br />
 

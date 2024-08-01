@@ -63,6 +63,7 @@ Microphthalmia and anophthalmia, congenital conditions where a child is born wit
 <br />
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2024/Moscoso.webp" alt="Dr. Moscoso Barrera's photo" width="150px" id="photo-float"/>
 
@@ -107,6 +108,7 @@ On the translational side, I intend to have my lab build computational mechanist
 <br />
 <br />
 <br />
+<br />
 
 <img src="/public/seminar-photos/2024/Jain.webp" alt="Dr. Jain's photo" width="150px" id="photo-float"/>
 
@@ -136,7 +138,6 @@ Preserving mobility is a key public health challenge. Lower limb robotic exoskel
 <br />
 <br />
 <br />
-<br />
 
 ### September 23, 2024 (12 pm ET, 9 am PT; [webinar signup](https://ucla.zoom.us/meeting/register/tJUtf-mppjkoGtOggN9HKYu9I4EV53gewBS8))
 
@@ -160,6 +161,7 @@ The importance of immune cells in facilitating healing has been well characteriz
 <details><summary>Abstract</summary>
 Material-based immunomodulation using nanofibrous peptide hydrogels Material-based strategies to elicit specific immune responses can be transformative in developing more effective immunotherapies. Common strategies using materials for immunomodulation rely on the delivery of drugs, biomolecules, or cells. However, materials have intrinsic properties that can be exploited to recruit specific cell types and activate or suppress the immune system. A unique class of materials exhibiting immunomodulatory effects is self-assembling peptide hydrogels. These materials comprise short peptides that assemble into nanofibers and form highly hydrated 3D networks. They offer high versatility for material design as we can tune their sequence, structure, and mechanical properties. To fully harness the potential of peptide materials for immunomodulation, it is critical to understand how peptide design affects the immune response and to elucidate the relevant factors and cell-nanofiber interactions responsible for those responses. This work focuses on the comprehensive characterization of the immune response to a family of peptide hydrogels with a range of highly positive, neutral (zwitterionic), and negative charges. These materials have similar viscoelastic properties and nanofibrous structure, which ensures that the net charge and charge distribution are the main determining factors eliciting the observed immune responses. We evaluated the immune response to this family of peptide gels using a subcutaneous injection model combined with ultrasound imaging, tissue analyses, flow cytometry, and multiplex immunoassays. We observed distinct and divergent host responses elicited by the differentially charged peptide gels, indicating the influence of material attributes on the immune response. In particular, we found that material charge can be used to control the recruitment of neutrophils and Neutrophil Extracellular Trap (NET) formation. Our system facilitates anatomical and locoregional control of NET formation directly within a hydrogel implant, and we can fine-tune inflammation and the degree of NET formation in vivo by employing composites of gels with different charges. This project contributes to elucidating basic principles for peptide material design that we can use to control the immune system without the need for exogenous additives. Harnessing the power of the immune system using peptide materials will allow us to enhance current therapies, particularly for cancer.</details>
 
+<br />
 <br />
 <br />
 <br />

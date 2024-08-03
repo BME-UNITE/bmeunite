@@ -81,7 +81,7 @@ Low-Intensity Focused Ultrasound (LIFU) is a novel, non-invasive method with the
 
 <!--<img src="/public/seminar-photos/2024/Burrow.webp" alt="Dr. Burrow's photo" width="150px" id="photo-float"/>
 
-#### Joshua Burrow, AFFILIATION
+#### Joshua Burrow, Brown University
 
 TITLE
 

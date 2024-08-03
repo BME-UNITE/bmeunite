@@ -64,7 +64,6 @@ Microphthalmia and anophthalmia, congenital conditions where a child is born wit
 <br />
 <br />
 <br />
-<br />
 
 <img src="/public/seminar-photos/2024/Moscoso.webp" alt="Dr. Moscoso Barrera's photo" width="150px" id="photo-float"/>
 

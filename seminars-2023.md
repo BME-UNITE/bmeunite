@@ -4,7 +4,7 @@ title: UNITE Seminar Series Schedule
 exclude: true
 ---
 
-### August 14, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
+### August 14, 2023 (12 pm ET, 9 am PT)
 
 
 <img src="/public/seminar-photos/2023-08-14-Zambuto.webp" alt="Dr. Zambuto's photo" width="150px" id="photo-float"/>
@@ -58,7 +58,7 @@ We have developed an implant to remotely monitor immunological markers of alloim
 <br />
 <br />
 
-### August 28, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
+### August 28, 2023 (12 pm ET, 9 am PT)
 
 <img src="/public/seminar-photos/2023-08-28-Lanier.webp" alt="Dr. Lanier's photo" width="150px" id="photo-float"/>
 
@@ -106,7 +106,7 @@ Our current research focuses on using engineering tools to model and understand 
 <br />
 <br />
 
-### September 11, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
+### September 11, 2023 (12 pm ET, 9 am PT)
 
 <img src="/public/seminar-photos/2023-09-11-Adebowale.webp" alt="Dr. Adebowale's photo" width="150px" id="photo-float"/>
 
@@ -154,7 +154,7 @@ Our simulations and experiments show that VEGFR1 is less stable than VEGFR2 and 
 <br />
 <br />
 
-### September 25, 2023 (12 pm ET, 9 am PT; [webinar signup](https://purdue-edu.zoom.us/meeting/register/tJclduCsqTgiHdcewqZlHD_QT4ENETjaevU5))
+### September 25, 2023 (12 pm ET, 9 am PT)
 
 <img src="/public/seminar-photos/2023-09-25-Ott.webp" alt="Dr. Moore-Ott's photo" width="150px" id="photo-float"/>
 
